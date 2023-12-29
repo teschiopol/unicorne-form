@@ -1,0 +1,25 @@
+{
+  "name": "unicorne-form",
+  "version": "1.0.0",
+  "description": "Generate Form and its validations rules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd test || node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teschiopol/unicorne-form.git"
+  },
+  "keywords": [
+    "form",
+    "generator",
+    "vue",
+    "vue3"
+  ],
+  "author": "teschiopol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teschiopol/unicorne-form/issues"
+  },
+  "homepage": "https://github.com/teschiopol/unicorne-form#readme"
+}
